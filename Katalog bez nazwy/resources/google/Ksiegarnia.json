@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ksiegarnia-191419",
+  "private_key_id": "74ca628583b6e22145417df22eb9fa0598aa5920",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2ObsCyK+cJqjm\nF+qMERFxTNKqHTdcKmU2fn5RXeG+FIFWad0forUnuKs6gFqK+pJwT/vUTiwBuwB1\nejQQuty+zZK/stMfd1Tv5i1blDxpZlkjdnYH26QHbMH4UIgsoyOvj6goZBLsEZgE\n7G3DG7+YxF8+B7IZD4AUAfMWnjsVKjMVsMpzTt1knO4uhiJZm2UGw+d4fmAXlCXn\n31Vw7Dclt9g+vxf9A3j2vNzSSFyIut66cRRWvP/qRmPJC8XMCwatx87aNKag8hAR\n+S3lzgNuRzHp2Tobg09DaH3/PhCO1FLkP7lKkruuMqZvK9Mr7wgwOnCmb0dBIBUB\nIaJwhqjfAgMBAAECggEAF6rJgF6P+bAcY/9mM06Xh9zKSFWRa53cAGcPFpf4FP0f\ny+6QTXwPRZCauKHpYJSTxr+J/cnbYFbT2UOHwJvXG3b4C4AjzeSXT63YZUUMUETT\n6KMJnb1SrAjdloKLH9UJHP5ZAPSib9kHIq3nFvNN1VRn6awL3xe1cvkf2T0Ff8V/\nqU8OyvUtXAtVzcwQ9iovE76CJ3xF68jNo6fjSg3t4HQ+LTaQ4W1ZuZP80i+X0tbi\nxvFwccGQQvKdeBBJXFkLZbkHCErPovPiRgSYl+wE/NpHgyitWwHwFeEd+z68iLCg\n2xdqkVzRt7+h0G2BJOs6/xENu0/E8MdP2dtpdbZcCQKBgQDjEHJzM+osNmDcR526\nKHHyFuO6vUIOzE4fM//StOKaOJLz8906b7RtxcSDpu8uEcMgIxNWyhuSHvDXVBbz\n5w5iI0gtdWj8jtex/eqzr1vlujBSlSA71DuizCAzyw150XkXCwyWkc3oIyGi0JUX\nmhsbpNi6dSxWgOGpVsL33m4BVwKBgQDNcoCR0yLv2hOnFDDaDU6lOxuP+gQWtGbU\nxJ6VcDmYkFjCLtG989w2/7HQSgxc1/X5/v7rfoZZohV9YOXrbL3kbIfCHdi0TwA1\ntacRidUc+HBERGF6MzsMkY1wMZd6zS5vPceuHA1pbH+7MLE+CSCN+3e0AYa0Hyuh\nHC8ESHI3uQKBgDYscmHx/OjXgHyNyZ/kjmsH8wVWqjAFpo3jRiHrbjUFUmpJwHp0\ntEOMb7pJVb9UFY3RUIfgaHuQTj3RnjhK5C+d41aVMJsxKV0aC6kbKX3B0k2hrrMX\ni7LnqLcytuBdjdpllHdICixcVWYXBbs/1T/fMKYr1ow865oPTSz+MJi5AoGAEHbQ\nnt8Qua/8SzNvBspyNwOZndwnX7ptUze+jbNEqllHA6jE3jggubecBFkqzHXyHGq2\n+yBUm/JFTprpUgiQ3zFjX8cMisaZ+bPpA5rMHVo7hP0F4skgPk2bzBXtUcYHppqI\n2gcdfAlZ4yJv0czhcv9oBGDq7pxg3rRngCxeGuECgYAlQjGXXH2BzPaEiKz19gDg\n4hgnBA8tPxMPlyy9FlEm22M8q0GDgY6ikxHhRXUikPAc5fVSm3/RWHC9/Y8m1HjH\nvMN5IIuhNsWoYYn3Hce+ETXB1OoQdduXH7Bk/0YQNA/kqkQyS5OcDXF+Ew+Fs/Xy\nv9lRbNqenrFfrqEP+urn1w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "raporty@ksiegarnia-191419.iam.gserviceaccount.com",
+  "client_id": "117706304436292352858",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raporty%40ksiegarnia-191419.iam.gserviceaccount.com"
+}
